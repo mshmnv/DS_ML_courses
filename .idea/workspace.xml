@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35f350d9-c032-467e-9fc1-208c7e44a8c5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_michigan university/assets/Energy Indicators.xls" beforeDir="false" afterPath="$PROJECT_DIR$/DS_michigan_university/assets/Energy Indicators.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_michigan university/assets/NIS-PUF17-DUG.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/DS_michigan_university/assets/NIS-PUF17-DUG.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_michigan university/assets/NISPUF17.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DS_michigan_university/assets/NISPUF17.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_michigan university/assets/census.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DS_michigan_university/assets/census.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_michigan university/assets/grades.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DS_michigan_university/assets/grades.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_michigan university/assets/logdata.txt" beforeDir="false" afterPath="$PROJECT_DIR$/DS_michigan_university/assets/logdata.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_michigan university/assets/olympics.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DS_michigan_university/assets/olympics.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_michigan university/assets/scimagojr-3.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/DS_michigan_university/assets/scimagojr-3.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_michigan university/assets/world_bank.csv" beforeDir="false" afterPath="$PROJECT_DIR$/DS_michigan_university/assets/world_bank.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_michigan university/assignment1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DS_michigan_university/assignment1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_michigan university/assignment2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DS_michigan_university/assignment2.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DS_michigan university/assignment3.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/DS_michigan_university/assignment3.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1tZU48xFD4emVirTI8CqpC3tB6K" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35f350d9-c032-467e-9fc1-208c7e44a8c5" name="Default Changelist" comment="" />
+      <created>1622975918801</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1622975918801</updated>
+      <workItem from="1622975924528" duration="345000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
